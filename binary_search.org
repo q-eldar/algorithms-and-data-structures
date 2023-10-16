@@ -1,0 +1,3 @@
+* Rotated Sorted Array
+- https://www.youtube.com/watch?v=5qGrJbHhqFs
+- https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/

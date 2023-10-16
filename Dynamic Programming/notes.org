@@ -1,0 +1,33 @@
+* Learn Dynamic programming
+- [[https://www.educative.io/courses/grokking-dynamic-programming-a-deep-dive-using-cpp][Educative Grokking Dynamic Programming: A Deep Dive Using C++]]
+  - Knapsack
+    - Target Sum
+    - Subset Sum
+    - Count of Subset Sum
+    - Partition Array Into Two Arrays to Minimize Sum Difference
+    - Minimum Number of Refuling Stops
+    - Equal Sum Subarrays
+  - Unbounded Knapsack
+    - Maximum Sum of Repeting Items
+    - Maximum Ribbon Cut
+    - Rod Cutting
+    - Minimum Coin Change
+    - Number of Ways Coin Change
+  - Recursive Numbers
+    - Fibonacci Numbers
+    - Staircase (1 step, 2 step, 3 step)
+    - Count Ways to Score in a Game(give fixed list{1,2,}, find all possible ways with given total score n)
+    - Number of Unique path for Robot in a 2D Grid
+    - Catalan Numbers
+    - House Robber
+    - Minimum Jumps
+    - Minimum Jumps with Fee
+    - Matrix Chain Multiplication
+  - Longest Common Substring
+    - LCS
+    - LCS_super
+    - Minimum Number of Deletion and Insertion
+    - Edit Distance
+    - Longest Repeating Subsequence
+    - 
+  - Palindrom Subsequence
